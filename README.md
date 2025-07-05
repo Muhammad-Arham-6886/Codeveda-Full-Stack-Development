@@ -1,0 +1,2 @@
+# Codeveda-Full-Stack-Development
+The repository showcases my internship at Codveda Technology, where I developed full-stack development skills using Node.js, npm, MongoDB, Git, and Postman. I built a modern web application, RESTful API, and a functional MERN stack application, focusing on scalability and performance.
